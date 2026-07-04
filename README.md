@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Akashsgh/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akashsgh/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Akashsgh/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Akashsgh/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
