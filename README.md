@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Akashsgh/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3620-network-recovery-pathways](https://github.com/Akashsgh/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -72,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akashsgh/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
