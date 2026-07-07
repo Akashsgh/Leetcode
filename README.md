@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akashsgh/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akashsgh/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akashsgh/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
