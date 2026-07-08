@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Akashsgh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Akashsgh/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1122-relative-sort-array](https://github.com/Akashsgh/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Akashsgh/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akashsgh/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Akashsgh/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Akashsgh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Akashsgh/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3620-network-recovery-pathways](https://github.com/Akashsgh/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
