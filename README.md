@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Akashsgh/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Akashsgh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Akashsgh/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akashsgh/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Akashsgh/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsgh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/Akashsgh/Leetcode/tree/master/1122-relative-sort-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Akashsgh/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akashsgh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/Akashsgh/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Akashsgh/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akashsgh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/Akashsgh/Leetcode/tree/master/1122-relative-sort-array) |
 ## Interactive
 |  |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsgh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Akashsgh/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -148,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akashsgh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
