@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akashsgh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashsgh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akashsgh/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akashsgh/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
