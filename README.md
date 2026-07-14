@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akashsgh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Akashsgh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Akashsgh/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akashsgh/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
