@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Akashsgh/Leetcode/tree/master/1518-water-bottles) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akashsgh/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Akashsgh/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akashsgh/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akashsgh/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akashsgh/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Akashsgh/Leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
