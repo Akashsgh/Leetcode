@@ -5,4 +5,4 @@ from(
     from MyNumbers
     group by num
     having count(*)=1
-) as t;
+) as n;
