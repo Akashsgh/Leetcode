@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Akashsgh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashsgh/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akashsgh/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Akashsgh/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Akashsgh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Akashsgh/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashsgh/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akashsgh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Akashsgh/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/Akashsgh/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akashsgh/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Akashsgh/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Akashsgh/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Akashsgh/Leetcode/tree/master/1518-water-bottles) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akashsgh/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
