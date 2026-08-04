@@ -24,10 +24,7 @@ class Solution {
             st.push(temp);
             temp = temp.next;
         }
-
-        
-
-        while (!st.isEmpty()) {
+        while (st.size()>0) {
             ListNode node = st.pop();
             node.next = temp;
             temp = node;
