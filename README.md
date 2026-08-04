@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Akashsgh/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Akashsgh/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Akashsgh/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/Akashsgh/Leetcode/tree/master/1084-sales-analysis-iii) |
 ## Game Theory
 |  |
 | ------- |
