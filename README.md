@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Akashsgh/Leetcode/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Akashsgh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Akashsgh/Leetcode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akashsgh/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akashsgh/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Akashsgh/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
