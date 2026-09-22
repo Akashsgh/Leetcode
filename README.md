@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akashsgh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/Akashsgh/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Akashsgh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akashsgh/Leetcode/tree/master/0509-fibonacci-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akashsgh/Leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Akashsgh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akashsgh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akashsgh/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Akashsgh/Leetcode/tree/master/0486-predict-the-winner) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akashsgh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akashsgh/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Akashsgh/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
